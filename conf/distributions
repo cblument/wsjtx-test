@@ -1,0 +1,7 @@
+Origin: cblument.github.io/wsjtx-test
+Label: cblument.github.io/wsjtx-test
+Codename: breezy
+Architectures: amd64 armhf i386
+Components: main
+Description: wsjt-x repository for easy installation
+SignWith: 13ACB4A96F0E4C80D7F836F0D538F182D0E02441
