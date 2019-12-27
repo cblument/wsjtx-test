@@ -1,6 +1,6 @@
 Origin: cblument.github.io/wsjtx-test
 Label: cblument.github.io/wsjtx-test
-Codename: breezy
+Codename: buster
 Architectures: amd64 armhf i386
 Components: main
 Description: wsjt-x repository for easy installation
