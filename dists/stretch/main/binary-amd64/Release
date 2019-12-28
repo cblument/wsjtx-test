@@ -1,0 +1,5 @@
+Component: main
+Origin: cblument.github.io/wsjtx-test
+Label: cblument.github.io/wsjtx-test
+Architecture: amd64
+Description: wsjt-x repository for easy installation

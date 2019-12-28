@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: cblument.github.io/wsjtx-test
+Label: cblument.github.io/wsjtx-test
+Codename: stretch
+Date: Sat, 28 Dec 2019 22:50:15 UTC
+Architectures: amd64 armhf i386
+Components: main
+Description: wsjt-x repository for easy installation
+MD5Sum:
+ d337abb77d5e76dfd89ce5a36962b9cf 4793 main/binary-amd64/Packages
+ 7de4dcf15e726ce884197e8e7b6277a8 2450 main/binary-amd64/Packages.gz
+ 966c70bb5c40ba41ac0f1d943998bd87 164 main/binary-amd64/Release
+ d6366302e7d2ee980cbbd2115887f025 4842 main/binary-armhf/Packages
+ 17d0f669615e0d9f57432bbcd6c576cc 2459 main/binary-armhf/Packages.gz
+ 00cf208fcf869bbd2ff2f7d1b1e7c229 164 main/binary-armhf/Release
+ 0204611824ddfd1d49fb0e212165eb8d 4812 main/binary-i386/Packages
+ 96f9816ac0f7face3e3567e7bca2b9e7 2453 main/binary-i386/Packages.gz
+ 04693f4a98b2c230b63284f3a724a8b0 163 main/binary-i386/Release
+SHA1:
+ 1d23a0f12c24683179b295cafffff3ac7c63bfa3 4793 main/binary-amd64/Packages
+ e5b1597585e9ab260c036691f0b756485bc508a0 2450 main/binary-amd64/Packages.gz
+ dedb584501be853f9c94a7b1ca499145d0d9f7a9 164 main/binary-amd64/Release
+ b4c10ded1daa14dbeb0c39aedb0b00f64d4e34d7 4842 main/binary-armhf/Packages
+ b283e20000727e32ae531dff8e28b7cd43d09175 2459 main/binary-armhf/Packages.gz
+ a9fc2d39a721b1e829e658025e05100277e0fdbe 164 main/binary-armhf/Release
+ b885035d67e34f4059465f455a5e50bd295ec366 4812 main/binary-i386/Packages
+ cccbd70619de6a29828f262e1a64ce6d88b485d7 2453 main/binary-i386/Packages.gz
+ 32a26d6044bd9a581ccfa13d9e926ddd643ff9c0 163 main/binary-i386/Release
+SHA256:
+ 01b355f90620f60568126e252d494213352355317879ced8dd8cbe17def53441 4793 main/binary-amd64/Packages
+ f5fc995363a4d3d37e680a5d51f405533ca3aa339bac497c4c644d8ffd7e9048 2450 main/binary-amd64/Packages.gz
+ ce5532c745e1be0c8cd5baa236891b314753a5acc7b8066a6f5e39d28ab6f7f7 164 main/binary-amd64/Release
+ 53a1f47e084625c52d264177ea81a8ae329cf02c162ba083cd63f5776cc9d0fd 4842 main/binary-armhf/Packages
+ d376e011f1fd8e7b4d17b5e043399603d2231ea2b1381db255e4460cd4f9d64f 2459 main/binary-armhf/Packages.gz
+ 38bcf9e01f426deaf3a21e55e03457a649ceb6eaee96ebc338e0921ff5fd1b52 164 main/binary-armhf/Release
+ 1f6d4cd7df178d37acd8b74ccf3c4938fef05d7c3032689c4c405a72fa56781a 4812 main/binary-i386/Packages
+ 365b19519ff9e00bb8162fe29179f151878b1053161e602caae9864f1b7a7b57 2453 main/binary-i386/Packages.gz
+ 4425d5d49b117172974eb753886b6eb44716b36e625f36e00f37a14180bac129 163 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEE6y0qW8OTIDX+Dbw1TjxgtDgJEEFAl4H3CgACgkQ1TjxgtDg
+JEHZZQv/Yu4F0IL/irfGh8cZnEKeq2rLgqejXmmSg8XJA8z3xIV0IU4G5hG9JvVZ
+vl6SGmVegykWadOmsN6HVa/EDJXTX0v+UubDupyl4JBbyKGBRBUUG+Ox983VKFdz
+/TyOZySPz54YTwDHCvoOqurhvG2Og75TljcJRGHHathWdOs30kyTwGEBhGDQrnnD
+NvrCXeSekY+O6OYzmCWNhSq2ucKu3QVdRnRSXmePzYanwqYruOvBBq7s6JSMklin
+gFyP/RDwDZbFWqPhRkLqKp5/5QKgRtJI9T4hYEURfKhQ9ripfEyEyfcJ7p21k1bB
+M3ZJbl1Nwc7N4skAW7WCUgys/513c+q5rZG6krxuQOh5LbfcsrWZ9yBxN3OZvptI
+mufAjuaC0OIbXJc2oI85EEGsqgxZNmR/4lEkG99Kj4fGWJff79EWyvm+u/BSPBYQ
+kO1kGW4C2pmJ3t6u4gkDTKmGip30iRVunndhq1imFQsAT9imEgkAEgS/UxFbFYRY
+9zMx0rUh
+=lIb0
+-----END PGP SIGNATURE-----
